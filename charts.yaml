@@ -3,7 +3,7 @@
 # renovate: depName=argo-rollouts-chart packageName=argo-rollouts registryUrl=https://argoproj.github.io/argo-helm
 argo_rollouts_chart_version: 2.18.0
 # renovate: depName=argocd-chart packageName=argo-cd registryUrl=https://argoproj.github.io/argo-helm
-argocd_chart_version: 5.14.1
+argocd_chart_version: 5.24.3
 # renovate: depName=aws-load-balancer-controller-chart packageName=aws-load-balancer-controller registryUrl=https://aws.github.io/eks-charts
 aws_load_balancer_controller_chart_version: 1.4.1
 # renovate: depName=cert-manager-chart packageName=cert-manager registryUrl=https://charts.jetstack.io
